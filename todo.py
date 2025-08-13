@@ -19,3 +19,5 @@ if __name__ == "__main__":
     print("3 + 5 = {}".format(add(3, 5)))
     print("10 - 4 = {}".format(subtract(10, 4)))
     print("6 × 7 = {}".format(multiply(6, 7)))  # 测试乘法
+
+    111
